@@ -5,8 +5,8 @@
 <details>
   <summary><h2>v1.1 Changelog</h2></summary>
 
-<details>
-    <summary><h3>TL;DR</h3></summary>
+  
+  <h3>TL;DR</h3>
   
   - **Revamped 30+ Songs** (changed to their respective original remixers instead of reposters)
   - **Restored some songs** from deletion  
@@ -14,12 +14,12 @@
   - **Fully archiving most of the mp3s** alongside crediting their original remixers (almost 2gb and will upload sometimes later perhaps)
   - **Removed weird and shit songs** you won't remember either way
   
-  </details>
+  
 
-  <details>
+<details>
     <summary><h3>Full changelog</h3></summary>
 
-  ### Re-added removed songs
+  #### Re-added removed songs
   - Re-added **Hiding Hala Haiding** by **DJ Jimmy On the Mix**
   - Re-added **DJ Terpikat Barakatak** by **Taufiq Akmal**
   - Re-added **I Love Mama Mantu**
@@ -37,11 +37,11 @@
   - Re-added **DJ Lo Mati Gue Party x Lagu Untukmu**
   and a lot more but I'm too lazy to write all of them
 
-  ### Added More Viral Songs
+  #### Added More Viral Songs
   - Added **I Wanna Get High x Sepahit Topi Miring**
   - Added **Melody Keju Joget Pragos**
 
-  ### Misc. Additions
+  #### Misc. Additions
   - **Added Runtah from IMP ID** because I misinputed the old Runtah
   - **Added As If It's Your Last x Cupid** because I wanted to piss Hasan off
   - **Added DJ Derniere Danse** because Hasan likes Indila and I wanted to piss him off again
@@ -53,5 +53,31 @@
   - **Changed DJ New Rules** because the old one was ass
   - **Now sorted from newest first** and new videos will now always go on top
   - **Backed up all the currently existing songs** in the playlist. I will later upload it to a hosting site.
-
+</details>
  </details>
+
+<details>
+  <summary><h2>v1.1.1 Changelog</h2></summary>
+
+<h3>TL;DR</h3>
+
+  - **Added some new songs, some coming from <a href="https://www.youtube.com/watch?v=DCJJ350Bmm4">OSGDmemes' DJ Set Session</a>** 
+  - **Added the oldest available upload of DJ Rindu Semalam**, but I doubt that it's the original remixer.
+
+<details>
+  <summary><h3>Full changelog</h3></summary>
+
+  #### New Songs
+  - **Added Cikicikibambam x Amor Probido** ((welot kang copet))
+  - **Added DJ She Doesn't Mind**
+  - **Added Pernikahan Dini (Sped Up)** (thanks for the submission from my sister)
+  - **Added Di Reject (Sped Up)** (again, thanks for the submission from my sister)
+  - **Added DJ Wiro Sableng**
+  - **Added DJ Emang Kamu Dasar Lonte Bajingan** (submission by @onepip on Discord)
+  - **Added** the correct **DJ Kill Bill**
+  - **Added DJ Aku Di Matamu**
+  - **Added DJ Aw Aw Aw**
+  - **Added DJ Kisses Back**
+ 
+  </details>
+</details>
