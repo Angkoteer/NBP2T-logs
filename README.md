@@ -3,7 +3,7 @@
 #### Changelogs for [Ngepot Bawa Pasir 2 Ton™](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij)
 
 <details>
-  <summary><h2>v1.1 Changelog</h2></summary>
+  <summary><h2>v1.1 Changelog (04/06/23)</h2></summary>
 
   
   <h3>TL;DR</h3>
@@ -56,8 +56,9 @@
 </details>
  </details>
 
+
 <details>
-  <summary><h2>v1.1.1 Changelog</h2></summary>
+  <summary><h2>v1.1.1 Changelog (29/06/23)</h2></summary>
 
 <h3>TL;DR</h3>
 
@@ -78,6 +79,37 @@
   - **Added DJ Aku Di Matamu**
   - **Added DJ Aw Aw Aw**
   - **Added DJ Kisses Back**
+ 
+  </details>
+</details>
+
+
+<details>
+  <summary><h2>v1.1.2 Changelog (29/07/23)</h2></summary>
+
+<h3>TL;DR</h3>
+
+  - **Uploaded the archived songs to Google Drive.** Might contain songs deleted from the playlist. Check it out <a href="https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link">here<a/>.
+  - **Re-added 2 deleted songs and added 3 new songs** 
+
+<details>
+  <summary><h3>Full changelog</h3></summary>
+
+  #### Uploaded the JJ Archive to Google Drive
+   Named it the "ETS2 Radio" because I use these songs during delivery in ETS2.  
+   Folder will auto-update so I don't have to worry about reuploading stuff  
+   [Free to download, btw](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link)
+  
+
+  #### New songs
+  - **Added DJ Papa Americano**
+  - **Added DJ Luffy Thai Remix** (this was actually an old submission I never got to add)
+  - **Added DJ Hamil Duluan x Soulja Boy** (youuuuuuu)
+
+  #### Re-added removed songs
+  - Re-added **Mak Lemak Lemak** (😭 the legend is gone)
+  - Re-added **DJ Sweet Little Bumblebee** by Adit Fvnky Rmx
+  - Re-added **DJ Gafarastyle Jungle Dutch** 
  
   </details>
 </details>
