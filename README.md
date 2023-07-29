@@ -105,9 +105,10 @@
   - **Added DJ Papa Americano**
   - **Added DJ Luffy Thai Remix** (this was actually an old submission I never got to add)
   - **Added DJ Hamil Duluan x Soulja Boy** (youuuuuuu)
+  - **Added DJ She Doesn't Mind**, this time from Djremix Thai
 
   #### Re-added removed songs
-  - Re-added **Mak Lemak Lemak** (😭 the legend is gone)
+  - Re-added **Mak Lemak Lemak** but now it's the original remixer
   - Re-added **DJ Sweet Little Bumblebee** by Adit Fvnky Rmx
   - Re-added **DJ Gafarastyle Jungle Dutch** 
  
