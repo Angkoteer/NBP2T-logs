@@ -83,14 +83,13 @@
   </details>
 </details>
 
-
 <details>
   <summary><h2>v1.1.2 Changelog (29/07/23)</h2></summary>
 
 <h3>TL;DR</h3>
 
   - **Uploaded the archived songs to Google Drive.** Might contain songs deleted from the playlist. Check it out <a href="https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link">here<a/>.
-  - **Re-added 2 deleted songs and added 3 new songs** 
+  - **Re-added 2 deleted songs and added 3 new songs.** 
 
 <details>
   <summary><h3>Full changelog</h3></summary>
@@ -110,7 +109,38 @@
   #### Re-added removed songs
   - Re-added **Mak Lemak Lemak** but now it's the original remixer
   - Re-added **DJ Sweet Little Bumblebee** by Adit Fvnky Rmx
-  - Re-added **DJ Gafarastyle Jungle Dutch** 
+  - Re-added **DJ Gafarastyle Jungle Dutch**
+  </details>
+</details>
+
+
+<details>
+  <summary><h2>v1.2 Changelog (24/09/23)</h2></summary>
+
+<h3>TL;DR</h3>
+
+  - **First huge revamp of the playlist!!!** Sadly not a good one.
+  - **Re-added some songs and added new songs.** One of them is a pretty well known club banger. 
+
+<details>
+  <summary><h3>Full changelog</h3></summary>
+
+  #### Huge Revamp! DJ Mbon Mbon songs are all gone!
+  Much as I'm sad to announce this, it seems that DJ Mbon Mbon's channel has been deleted and/or taken down.     
+  All of his songs are still available on the [Google Drive](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link) though.   
+  You're always in our hearts, DJ Mbon Mbon.
+
+  #### New songs
+  - **Added Peggy Gou - Nanana (Koplo Is Me Remix)**
+  - **Added DJ In The Stars by DJ Komang**
+  - **Added DJ Gratata by DJ Cantik**
+  - **Added Sahara by Whisnu Santika** (WELCOME TO SAHARA B**CH)
+
+
+  #### Re-added removed songs
+  - Re-added **DJ Skibidi Bom** by the original remixer, Dede Kelvin
+  - Re-added **DJ Booty Call x Super Freaky Girl** by RYAN TMR
+  - Re-added **DJ Bukan Cinta 1 atau 2** by Ucil Fvnky
  
   </details>
 </details>
