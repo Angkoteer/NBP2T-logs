@@ -101,21 +101,21 @@
   
 
   #### New songs
-  - **Added DJ Papa Americano**
+  - **Added DJ Papa Americano** from Exel Sack the big boy
   - **Added DJ Luffy Thai Remix** (this was actually an old submission I never got to add)
   - **Added DJ Hamil Duluan x Soulja Boy** (youuuuuuu)
-  - **Added DJ She Doesn't Mind**, this time from Djremix Thai
+  - **Added DJ She Doesn't Mind**, this time from **Djremix Thai**
 
   #### Re-added removed songs
   - Re-added **Mak Lemak Lemak** but now it's the original remixer
-  - Re-added **DJ Sweet Little Bumblebee** by Adit Fvnky Rmx
+  - Re-added **DJ Sweet Little Bumblebee** by **Adit Fvnky Rmx**
   - Re-added **DJ Gafarastyle Jungle Dutch**
   </details>
 </details>
 
 
 <details>
-  <summary><h2>v1.2 Changelog (24/09/23)</h2></summary>
+  <summary><h2>v1.2 Changelog (25/09/23)</h2></summary>
 
 <h3>TL;DR</h3>
 
@@ -132,15 +132,18 @@
 
   #### New songs
   - **Added Peggy Gou - Nanana (Koplo Is Me Remix)**
-  - **Added DJ In The Stars by DJ Komang**
-  - **Added DJ Gratata by DJ Cantik**
-  - **Added Sahara by Whisnu Santika** (WELCOME TO SAHARA B**CH)
+  - **Added DJ In The Stars** by **DJ Komang**
+  - **Added DJ Gratata** by **DJ Cantik**
+  - **Added DJ Karna Su Sayang** by **Maman Fvndy** (submission by **@officialyaperson** on Discord)
+  - **Added Sahara** by Whisnu Santika (WELCOME TO SAHARA B**CH)
 
 
   #### Re-added removed songs
-  - Re-added **DJ Skibidi Bom** by the original remixer, Dede Kelvin
-  - Re-added **DJ Booty Call x Super Freaky Girl** by RYAN TMR
-  - Re-added **DJ Bukan Cinta 1 atau 2** by Ucil Fvnky
+  - Re-added **DJ Skibidi Bom** by the original remixer, **Dede Kelvin**
+  - Re-added **DJ Booty Call x Super Freaky Girl** by **RYAN TMR**
+  - Re-added **DJ Bukan Cinta 1 atau 2** by **Ucil Fvnky**
+  - Re-added **DJ Joget Keju Pragos** by **Unyil Funky**
+  - Re-added **Kutukan Mantan** by Lusiana Malala (I wrongly added a reupload previously) ((huge thanks to @officialyaperson in Discord for reminding me))
  
   </details>
 </details>
