@@ -180,6 +180,8 @@
   - **Added DJ Skibidi Bom**, this time from **Hendy Adji**
   - **Added DJ Paket Ashiap** by **Jay Stefan**
   - **Added DJ Japanese Goblin x Jedag Jedug Preman** by **Afrian AF** (I swear I hate this song so much)
+  - **Added Move Your Body x Pak Cepak Jeder** by **Unyil 12 Remix**
+  - **Added Bila Tiba (Funkot Remix)** by **Adhyarta Funkot**
 
   #### Re-added removed songs
   - Re-added **DJ Untuk Pengisi Hatiku** by the original remixer, **DJ Komang Rimex**
