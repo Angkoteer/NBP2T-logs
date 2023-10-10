@@ -143,7 +143,48 @@
   - Re-added **DJ Booty Call x Super Freaky Girl** by **RYAN TMR**
   - Re-added **DJ Bukan Cinta 1 atau 2** by **Ucil Fvnky**
   - Re-added **DJ Joget Keju Pragos** by **Unyil Funky**
-  - Re-added **Kutukan Mantan** by Lusiana Malala (I wrongly added a reupload previously) ((huge thanks to @officialyaperson in Discord for reminding me))
+  - Re-added **Kutukan Mantan** by **Lusiana Malala** (I wrongly added a reupload previously) ((huge thanks to **@officialyaperson** in Discord for reminding me))
+ 
+  </details>
+</details>
+
+
+<details>
+  <summary><h2>v1.3 Changelog (10/10/23)</h2></summary>
+
+<h3>TL;DR</h3>
+
+  - ~~**Discount Time!!!** Just kidding, there is no such thing as a discount in the playlist.~~  
+  - **Re-added some deleted songs and added lots of new songs.**
+  - **BROUGHT A LOST MEDIA FROM THE DEAD.** Like seriously, it took me almost a year to find this song and it came back like nothing had happened. 
+
+<details>
+  <summary><h3>Full changelog</h3></summary>
+
+  #### Resurrected a lost media!
+  I'm not exaggerating when I say that this was the hardest one to find.  
+  It took me about 8 months to find before this song resurfaced in the web archive.  
+  Anyways, probably will reupload on my channel (or not, because the last time I've seen this song, it was being copystriked)  
+
+  Oh. Yeah. Forgot to tell you. It's **Care Bebek** from **DJ ERKA**.
+
+  #### New songs
+  - **Added DJ Corona** (this is peak humor according to Indonesians in 2023)
+  - **Added DJ Campina** by **DJ Wahyu RMX**
+  - **Added Pantun Janda** by **Muqadam** (this wasn't a DJ song but I figured it was enough of a banger that I need to include this here)
+  - **Added Ikan Dalam Kolam** by **Muqadam** (same reason as above)
+  - **Added DJ Cikini ke Gondangdia** by **Nabih Fvnky** (thanks to @Accamaw for reminding me that this song exists) ((actually no thanks because i hated this song so much))
+  - **Added DJ Persija OT** by **DJ FAKHRI** (again, huge thanks to @Accamaw)
+  - **Added DJ Bernyanyi** by **Ramuji Akmal Sadega**
+  - **Added DJ Die For You** by **Raymondphilipus** (turns out not as bad as I thought)
+  - **Added DJ Skibidi Bom**, this time from **Hendy Adji**
+  - **Added DJ Paket Ashiap** by **Jay Stefan**
+  - **Added DJ Japanese Goblin x Jedag Jedug Preman** by **Afrian AF** (I swear I hate this song so much)
+
+  #### Re-added removed songs
+  - Re-added **DJ Untuk Pengisi Hatiku** by the original remixer, **DJ Komang Rimex**
+  - Re-added **DJ Chica Loca** by **Zein Fvnky**
+  - Re-added **Jedag Jedug Preman** by **Afrian AF** because for some reason the old one got taken down
  
   </details>
 </details>
