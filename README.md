@@ -208,7 +208,9 @@
   - **Added DJ Malam Pagi x Hamil Duluan** by **Lil Mizan** (another submission by **@officialyaperson**)
   - **Added Kutukan Mantan**, but this time it's from **Angelbert Rap** (yet another gacor submission by **@officialyaperson**)
   - **Added DJ Hadal Ahbek** by **DJ Tebang** (courtesy of **@truejune.** on Discord, thanks a lot homeboy)
-  - **Added DJ Ci Ciro Ciro** by **Randa Prasetyo** (such a banger submission were made by **@fardan.** on Discord)
+  - **Added DJ Ci Ciro Ciro Funkot (Slowed + Reverb)** by **Randa Prasetyo** (such a banger submission were made by **@fardan.** on Discord)
+  - **Added DJ Ya Odna (Slowed + Reverb)** by **SAEE RMX** (once again, a submission from **@fardan.**)
+  - **Added DJ Penjaga Hati House** by **Rumah Baja** (a very unexpected submission from **@deedzz.**, dude knows what's music to my ears)
 
 Hit me up anywhere if you want to submit anything. Mostly Discord @andiama and Instagram [@pictureswithaiden](https://www.instagram.com/pictureswithaiden/).
  
