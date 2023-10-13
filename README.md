@@ -3,7 +3,7 @@
 #### Changelogs for [Ngepot Bawa Pasir 2 Ton™](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij)
 
 <details>
-  <summary><h2>v1.1 Changelog (04/06/23)</h2></summary>
+  <summary><h2>v1.1 Changelog (04/06/23) [The Great Revamp]</h2></summary>
 
   
   <h3>TL;DR</h3>
@@ -58,7 +58,7 @@
 
 
 <details>
-  <summary><h2>v1.1.1 Changelog (29/06/23)</h2></summary>
+  <summary><h2>v1.1.1 Changelog (29/06/23) [The OSGD Sessions]</h2></summary>
 
 <h3>TL;DR</h3>
 
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-  <summary><h2>v1.1.2 Changelog (29/07/23)</h2></summary>
+  <summary><h2>v1.1.2 Changelog (29/07/23) [Archivist's Haven]</h2></summary>
 
 <h3>TL;DR</h3>
 
@@ -101,7 +101,7 @@
   
 
   #### New songs
-  - **Added DJ Papa Americano** from Exel Sack the big boy
+  - **Added DJ Papa Americano** from **Exel Sack** the big boy
   - **Added DJ Luffy Thai Remix** (this was actually an old submission I never got to add)
   - **Added DJ Hamil Duluan x Soulja Boy** (youuuuuuu)
   - **Added DJ She Doesn't Mind**, this time from **Djremix Thai**
@@ -115,7 +115,7 @@
 
 
 <details>
-  <summary><h2>v1.2 Changelog (25/09/23)</h2></summary>
+  <summary><h2>v1.2 Changelog (25/09/23) [The Fall of a King]</h2></summary>
 
 <h3>TL;DR</h3>
 
@@ -134,7 +134,6 @@
   - **Added Peggy Gou - Nanana (Koplo Is Me Remix)**
   - **Added DJ In The Stars** by **DJ Komang**
   - **Added DJ Gratata** by **DJ Cantik**
-  - **Added DJ Karna Su Sayang** by **Maman Fvndy** (submission by **@officialyaperson** on Discord)
   - **Added Sahara** by Whisnu Santika (WELCOME TO SAHARA B**CH)
 
 
@@ -150,11 +149,11 @@
 
 
 <details>
-  <summary><h2>v1.3 Changelog (10/10/23)</h2></summary>
+  <summary><h2>v1.2.1 Changelog (10/10/23) [Diskon 10.10]</h2></summary>
 
 <h3>TL;DR</h3>
 
-  - ~~**Discount Time!!!** Just kidding, there is no such thing as a discount in the playlist.~~  
+  - ~~**Discount Time!!!**~~ Just kidding, there is no such thing as a discount in the playlist.  
   - **Re-added some deleted songs and added lots of new songs.**
   - **BROUGHT A LOST MEDIA FROM THE DEAD.** Like seriously, it took me almost a year to find this song and it came back like nothing had happened. 
 
@@ -173,8 +172,6 @@
   - **Added DJ Campina** by **DJ Wahyu RMX**
   - **Added Pantun Janda** by **Muqadam** (this wasn't a DJ song but I figured it was enough of a banger that I need to include this here)
   - **Added Ikan Dalam Kolam** by **Muqadam** (same reason as above)
-  - **Added DJ Cikini ke Gondangdia** by **Nabih Fvnky** (thanks to @Accamaw for reminding me that this song exists) ((actually no thanks because i hated this song so much))
-  - **Added DJ Persija OT** by **DJ FAKHRI** (again, huge thanks to @Accamaw)
   - **Added DJ Bernyanyi** by **Ramuji Akmal Sadega**
   - **Added DJ Die For You** by **Raymondphilipus** (turns out not as bad as I thought)
   - **Added DJ Skibidi Bom**, this time from **Hendy Adji**
@@ -187,6 +184,33 @@
   - Re-added **DJ Untuk Pengisi Hatiku** by the original remixer, **DJ Komang Rimex**
   - Re-added **DJ Chica Loca** by **Zein Fvnky**
   - Re-added **Jedag Jedug Preman** by **Afrian AF** because for some reason the old one got taken down
+ 
+  </details>
+</details>
+
+<details>
+  <summary><h2>v1.2.2 Changelog (13/10/23) [By the People, For the People]</h2></summary>
+
+<h3>TL;DR</h3>
+
+  - **Submissions! Fun!** Like, really. You guys are doing me a huge favor here by curating this playlist with y'all's taste.  
+    I can't curate every single song ever (and I might be oblivious to some of the songs you folks listen to), so by submitting songs,  
+    you guys are helping me a huge lot over this playlist. Thank you again.
+
+<details>
+  <summary><h3>Full changelog</h3></summary>
+  
+  #### Song Submissions!!! (I'm so happy if you can't tell)
+  - **Added DJ Cikini ke Gondangdia** by **Nabih Fvnky** (thanks to **@accamaw** on Discord for reminding me that this song exists) ((actually no thanks because i hated this song so much))
+  - **Added DJ Persija OT** by **DJ FAKHRI** (again, huge thanks to **@accamaw**) ((this is even worse))
+  - **Added DJ Pergi Pagi Pulang Pagi** by **Fikri Asia** (thanks to my sister for the submission) ((i legitimately forgot this song exists even though i listened to it live weeks prior))
+  - **Added DJ Karna Su Sayang** by **Mocil Fvnky** (submission by **@officialyaperson** on Discord)
+  - **Added DJ Malam Pagi x Hamil Duluan** by **Lil Mizan** (another submission by **@officialyaperson**)
+  - **Added Kutukan Mantan**, but this time it's from **Angelbert Rap** (yet another gacor submission by **@officialyaperson**)
+  - **Added DJ Hadal Ahbek** by **DJ Tebang** (courtesy of **@truejune.** on Discord, thanks a lot homeboy)
+  - **Added DJ Ci Ciro Ciro** by **Randa Prasetyo** (such a banger submission were made by **@fardan.** on Discord)
+
+Hit me up anywhere if you want to submit anything. Mostly Discord @andiama and Instagram [@pictureswithaiden](https://www.instagram.com/pictureswithaiden/).
  
   </details>
 </details>
