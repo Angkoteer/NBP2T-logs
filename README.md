@@ -1,6 +1,6 @@
 # NBP2T-logs
 
-#### Changelogs for [Ngepot Bawa Pasir 2 Ton™](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij)
+#### Changelogs for Ngepot Bawa Pasir 2 Ton™ on [Youtube](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij), [Google Drive](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link), and [Archive.org](https://archive.org/details/NBP2T)
 
 <details>
   <summary><h2>v1.1 Changelog (04/06/23) [The Great Revamp]</h2></summary>
@@ -214,5 +214,51 @@
 
 Hit me up anywhere if you want to submit anything. Mostly Discord @andiama and Instagram [@pictureswithaiden](https://www.instagram.com/pictureswithaiden/).
  
+  </details>
+</details>
+
+<details>
+  <summary><h2>v1.3 Changelog (15/10/23) [Archivist's Haven, Pt. 2]</h2></summary>
+
+<h3>TL;DR</h3>
+
+  - **Archive.org backups!** Peep it over [here](https://archive.org/details/NBP2T)
+  - **Added correct metadatas for the Google Drive backup** (and subsequently Archive.org)
+  - **Revamped and added some songs following the addition of correct metadata** including 1 lost media restored out of my curiosity
+
+<details>
+  <summary><h3>Full changelog</h3></summary>
+  
+  #### Archive.org backup
+  Let's hope this one stays up forever. I really don't want to leave these songs unattended with my GDrive because Google could do anything if they wanted to.  
+  Better safe than sorry, right? Anyways this would probably be updated every few weeks or months.  
+  I don't have the time to attend it everytime I download new songs.  
+  [Always free to download, of course](https://archive.org/details/NBP2T)
+
+  #### Correct metadatas(!)
+  Sorry for neglecting this for the longest time.  
+  Pretty dumb to think that I can rename filenames but can't change the filename into metadata tags.
+  Anyways, updates already pushed to the Google Drive and Archive.org backups (sadly not available for YouTube but oh well)
+
+  #### Revamped and replaced songs
+  - Replaced **DJ Untuk Pengisi Hatiku x Mama Muda** with the original one. Turns out it was called **Ku Tak Akan Bersuara x Mama Muda**. My bad.
+  - Added the original **DJ De Ra Go** (which was made by **Noka AxL**) without removing the sped up one.
+  - Replaced **DJ Hei Apa Apa x Tak Tak Tik Tik** by **Donny Fernanda** (sorry the original name was very vulgar I had to change it a little)
+  - Replaced **DJ Hooh Tenan x Ente Kadang Kadang** with the original remixer, **Mirza Mohamad**
+  - Replaced **DJ Pak Wong Vong** reupload with the one from **DJ Hengky**
+  - Added **DJ Rungkad** by **Dhea Angela** without removing the sped up version.
+  - Replaced **DJ Israel Babi** into an extended one. Thank you, **Unknown** on YT.
+  - Replaced **DJ Perawan Desa** with the [hopefully] original one.
+  - Replaced **DJ Domba Kuring** with another reuploaded one. Let's just hope this one holds.
+  - Replaced **DJ Realme** with a full version one where **Ikky Pahlevii** remixes other ringtones too
+
+  #### More submissions
+  - **Added DJ Jujur Sa Su Bilang** by **༒•MAYKEL MANTOW•༒** (no im not joking thats his youtube username)
+  - **Added DJ Wheels On The Bus Cocomelon** by **DJ Tebang** (submission by me) ((this was so far the worst joke submission ever made))
+  - **Added DJ I Just Can't** by **Kevin Rater** (submission by **@fardan.**)
+  - **Added DJ As If It's Your Last** by **Nopal Kiky** (submission by **@truejune.**)
+  - **Re-added DJ It's Only Me** after missing for over a year. Thank you, **Yoga BeatMap** I had so much trouble looking for your content. 
+
+
   </details>
 </details>
