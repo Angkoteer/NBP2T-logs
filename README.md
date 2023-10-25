@@ -1,6 +1,6 @@
 # NBP2T-logs
 
-#### Changelogs for Ngepot Bawa Pasir 2 Ton™ on [Youtube](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij), [Google Drive](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link), and [Archive.org](https://archive.org/details/NBP2T)
+#### Changelogs for Ngepot Bawa Pasir 2 Ton™ on [Youtube](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij), [Google Drive](https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link), and [Archive.org](https://archive.org/details/NBP2T)
 
 <details>
   <summary><h2>v1.1 Changelog (04/06/23) [The Great Revamp]</h2></summary>
@@ -88,7 +88,7 @@
 
 <h3>TL;DR</h3>
 
-  - **Uploaded the archived songs to Google Drive.** Might contain songs deleted from the playlist. Check it out <a href="https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link">here<a/>.
+  - **Uploaded the archived songs to Google Drive.** Might contain songs deleted from the playlist. Check it out <a href="https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link">here<a/>.
   - **Re-added 2 deleted songs and added 3 new songs.** 
 
 <details>
@@ -97,7 +97,7 @@
   #### Uploaded the JJ Archive to Google Drive
    Named it the "ETS2 Radio" because I use these songs during delivery in ETS2.  
    Folder will auto-update so I don't have to worry about reuploading stuff  
-   [Free to download, btw](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link)
+   [Free to download, btw](https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link)
   
 
   #### New songs
@@ -127,7 +127,7 @@
 
   #### Huge Revamp! DJ Mbon Mbon songs are all gone!
   Much as I'm sad to announce this, it seems that DJ Mbon Mbon's channel has been deleted and/or taken down.     
-  All of his songs are still available on the [Google Drive](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link) though.   
+  All of his songs are still available on the [Google Drive](https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link) though.   
   You're always in our hearts, DJ Mbon Mbon.
 
   #### New songs
