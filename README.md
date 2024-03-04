@@ -1,6 +1,6 @@
 # NBP2T-logs
 
-#### Changelogs for Ngepot Bawa Pasir 2 Ton™ on [Youtube](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij), [Google Drive](https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link), and [Archive.org](https://archive.org/details/NBP2T)
+#### Changelogs for Ngepot Bawa Pasir 2 Ton™ on [Youtube](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij), [Google Drive](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link), [Archive.org](https://archive.org/details/NBP2T), and [Proton Drive](https://drive.proton.me/urls/7JES72G0MR#ApNlehXhxQ5w)
 
 <details>
   <summary><h2>v1.1 Changelog (04/06/23) [The Great Revamp]</h2></summary>
@@ -88,8 +88,8 @@
 
 <h3>TL;DR</h3>
 
-  - **Uploaded the archived songs to Google Drive.** Might contain songs deleted from the playlist. Check it out <a href="https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link">here<a/>.
-  - **Re-added 2 deleted songs and added 3 new songs.** 
+  - **Uploaded the archived songs to Google Drive.** Might contain songs deleted from the playlist. Check it out <a href="https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link">here<a/>.
+  - **Re-added 2 deleted songs and added 3 new songs.**
 
 <details>
   <summary><h3>Full changelog</h3></summary>
@@ -97,7 +97,7 @@
   #### Uploaded the JJ Archive to Google Drive
    Named it the "ETS2 Radio" because I use these songs during delivery in ETS2.  
    Folder will auto-update so I don't have to worry about reuploading stuff  
-   [Free to download, btw](https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link)
+   [Free to download, btw](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link)
   
 
   #### New songs
@@ -127,7 +127,7 @@
 
   #### Huge Revamp! DJ Mbon Mbon songs are all gone!
   Much as I'm sad to announce this, it seems that DJ Mbon Mbon's channel has been deleted and/or taken down.     
-  All of his songs are still available on the [Google Drive](https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link) though.   
+  All of his songs are still available on the [Google Drive](https://drive.google.com/drive/folders/1-8_wOOYFYgYm4K1Sq37ayXA5b4ORpDPf?usp=drive_link) though.   
   You're always in our hearts, DJ Mbon Mbon.
 
   #### New songs
@@ -260,5 +260,66 @@ Hit me up anywhere if you want to submit anything. Mostly Discord @andiama and I
   - **Re-added DJ It's Only Me** after missing for over a year. Thank you, **Yoga BeatMap** I had so much trouble looking for your content. 
 
 
+  </details>
+</details>
+
+
+<details>
+  <summary><h2>v1.3.1 Changelog (--/03/24) [Archivist's Haven, Pt. 3]</h2></summary>
+
+<h3>TL;DR</h3>
+
+  - **Mooooooooooore Submissions!** As per usual!
+  - **New Backup Method**?!!!?!?? Indeed! This time it's on Proton Drive. Go check it out [here](https://drive.proton.me/urls/7JES72G0MR#ApNlehXhxQ5w).
+
+<details>
+  <summary><h3>Full changelog</h3></summary>
+  
+  #### Added and replaced new stuff (including submissions!)
+  - Replaced **DJ Ainsi Bas La Vida** to its original remixer, **DJ USUP**
+  - Replaced **DJ Harmoni** by **Nofin Asia**
+  - Replaced **DJ Close Your Eyes x Bangun Pagi Selfie** by **DJ Kunam** (which was officially recognized by KSHMR!)
+  - Added **DJ Mungkin Kurang Goyang** by **Iwansteep** (sorry I forgor to add this even though I've listened to it about 10 times now)
+  - Added **DJ Trombone x Pelan Pelan Pak Sopir** by **Naufal Akbar** (I love the brass so much in this song, legitimately a well made remix for me personally)
+  - Replaced **DJ All Night x Telahepa** by **DJ Nansuya**, now not a reupload.
+  - Replaced **DJ Linting Daun** by **DJ Love**
+  - Added **DJ Love Nwantiti** by **CAHYO 0103 RNDM**
+  - Added **DJ Welcom To PUBG Mobile**, originally by **Rahmat Tahalu**, now remixed by the one and only composer who [had beef with Pizza Hut Indonesia for 28 hours](https://twitter.com/_mardial_/status/1714281468124610729), **Mardial**!
+  - Added **DJ Sosweet Breakfunk** by **fmputra**
+  - Added **DJ Sosweet Breakfunk (Sped Up)** by **fmputra**(too) ((ok i'll admit to speeding it up myself and not taking the ones from the internet, sorry folks.))
+  - Replaced **DJ Dulu Something Sekarang Nothing** by **Rahmat Tahalu** because the old one was removed from YouTube
+  - Added **DJ Trombone** by **Ely Syahreza feat. Ilham VZR**
+  - Added **DJ I Love You 3000 x Nanda Lemon**, by **RK MIX** (NANDA LEMOOOOOOOON)
+  - Added **DJ Maumere**, by **DJ Komang Rimex**
+  - Added **DJ Mengapa Mudahnya Hatimu Mendua** by **Dennis Dethan** (Lagu gimmick BUSSID Bang Windah)
+  - Added **DJ Malam Pagi x Hamil Duluan x Sampe Bawah** by **Soundingin** (this is the closest version I can get to a Sampe Bawah remix)
+  - Added **DJ Goyang Dayung Mashup** by **Maman Fvndy** (this was taken down very quickly after I added to my playlist)
+  - Added **DJ Closed Doors x Terbang Bersamaku** by **Maman Fvndy**
+  - Added **DJ Joanna Mashup** by **Maman Fvndy**
+  - Added **DJ Diperchaos Edamame** by **Hikmal AR** (I had to pull this one out from the depths of archive.org)
+  - Added **Ahok Durjana Phonk Remix** by **lilepan** (was unlisted the last time I've seen it)
+  - Added **Oke Gas 2** by **Richard Jersey**
+  - Added **DJ Terlalu** by **Hendy Adji**
+  - Added **DJ Senam Pramuka** by **DJ Nansuya**
+  - Added **DJ Wadadadang** by **DJ Nansuya**
+  - Added **DJ Aku Lagi Bete** by **DJ Nansuya**
+  - Added **DJ Isabella Mashup** by **Ecko Pillow** (this is such a banger tbh)
+  - Added **DJ Pikiranku Lepas** by **Kila Fvnky**
+  - Added **DJ Om Anton Lari Maraton** by **Entus Korena** (bruakakakak)
+  - Added **DJ Tokyo Drift x Hamil Duluan** by **Anantavinnie** (my sister really liked this remix for some reason)
+  - Added **DJ Meriang (Sped Up)** (no source because the speed up dude didn't credit it :((()
+  - Added **DJ What It Is** by **Adit Fvnky Rmx**
+  - Added **DJ What It Is (Breakbeat Ver.)** by **Langit XDI** (same guy as the dude who made DJ Aku Di Matamu that went viral on NapKing's community at one point)
+  - Added **Kopi Dangdut** by **Vita Alfia**
+  - Added **DJ Tragedi Kamar Mandi** by **DJ Mahesa**
+  - Added **DJ Dapa Malaria x Ngana Dengar Ni Lagu** by **Fikri Fvnky**
+  - Added the original **DJ Sikok Bagi Duo**, by **DJ Dody**
+  - Added **DJ My Marmalade**(pak prabowo mwah, pak prabowo jigi jaga) by **Bosil Kompeng and Reedit Tunes ID**
+  - Added **DJ Fortune Cookies** by **Putra Damanik** (i just know i just pissed off like 30000 jkt48 fans out there)
+  - Added **DJ Montage Gladiator Reborn** by **DJ Komang**
+  - Added **One** by **Rizky Ayuba**
+  - Added **DJ PRESIDEN GUOBLOK** by **FRHN MUS!C** ((((ISTANANYA MENJADI ISTANA IBLIS))))
+  - Added **DJ Bukan Kaleng Kaleng** by **ARYA RMX**, renamed to **DJ Terbayang Bayang Kamu** for simplicity purposes
+  - Added **DJ Santri Pekok** by **Bongobarbar**
   </details>
 </details>
