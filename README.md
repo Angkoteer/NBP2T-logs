@@ -1,6 +1,6 @@
 # NBP2T-logs
 
-#### Changelogs for Ngepot Bawa Pasir 2 Ton™ on [Youtube](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij), [Google Drive](https://drive.google.com/drive/folders/1-2BM6zpRp9UDDKvcrClR60-GRSTq1nZP?usp=drive_link), [Archive.org](https://archive.org/details/NBP2T), and [Proton Drive](https://drive.proton.me/urls/7JES72G0MR#ApNlehXhxQ5w)
+#### Changelogs for Ngepot Bawa Pasir 2 Ton™ on [Youtube](https://www.youtube.com/playlist?list=PLgPPq_siGJwJ0YzFQI2p7lJtnqYy6A7Ij), [Google Drive](https://drive.google.com/drive/folders/1-0dJXqH5fjDpY0YPSd2q83ZPp4nDC_jv?usp=drive_link), [Archive.org](https://archive.org/details/NBP2T), and [Proton Drive](https://drive.proton.me/urls/7N74AK8CY4#sLYy7EMN6AX4)
 
 <details>
   <summary><h2>v1.1 Changelog (04/06/23) [The Great Revamp]</h2></summary>
